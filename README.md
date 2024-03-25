@@ -58,6 +58,17 @@ Die Dateien `Ergebnisse_Korrektheit_invalid_klinische_Daten.xlsx` und `Ergebniss
 
 ### Ordner 07_Strukturelles_Mapping
 
+Die Dateien `Mapping_Dokumentation_FHIR_OMOP_*.json.gz` und `Mapping_Dokumentation_FHIR_OMOP_*.docx` beinhalten die Ergebnisse der mit dem OHDSI Tool RabbitInAHat erstellten strukturellen Mappings der klinischen Daten (Kapitel 4.7 und 5.6) für die folgenden FHIR Profile:
+
+* Condition
+* Encounter (Abteilungskontakt)
+* Encounter (Einrichtungskontakt)
+* Medication
+* MedicationAdministration
+* Observation
+* Patient
+* Procedure
+
 Die Dateien `Mapping_Dokumentation_GKV_OMOP_*.json.gz` und `Mapping_Dokumentation_GKV_OMOP_*.docx` beinhalten die Ergebnisse der mit dem OHDSI Tool RabbitInAHat erstellten strukturellen Mappings der GKV-Routinedaten (Kapitel 4.7 und 6.7) für die folgenden übergeordneten Entitäten:
 
 * ambulante Arzneimittelverordnung
@@ -69,7 +80,7 @@ Die Dateien `Mapping_Dokumentation_GKV_OMOP_*.json.gz` und `Mapping_Dokumentatio
 * stationäre Rehabilitation
 * vertragsärztliche Versorgung
 
-Die Ergebnisse stehen als komprimierte JSON-Dateien zum erneuten Einlesen und Bearbeiten in RabbitInAHat sowie als Word-Dokumente zur Verfügung.
+Die Ergebnisse stehen für klinische Daten und GKV-Routinedaten als komprimierte JSON-Dateien zum erneuten Einlesen und Bearbeiten in RabbitInAHat sowie als Word-Dokumente zur Verfügung.
 
 
 ### Ordner 09_Qualitative_Datenqualitätsanalyse
