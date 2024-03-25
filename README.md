@@ -15,7 +15,7 @@ Die Datei `Literaturrecherche.xlsx` beinhaltet die Ergebnisse der Literaturreche
 Das Skript `Häufigkeitsverteilung_Prozessschritte.ipynb` beinhaltet ein Jupyter Notebook zur Analyse der Häufigkeitsverteilung der identifizierten Prozessschritte.
 Der Quellcode enthält die Visualisierung der Zuordnung der identifizierten Prozessschritte zu den eingeschlossenen Publikationen als Scatterplot in Kombination mit einem Histogramm zur Anzeige der Häufigkeit der Prozessschritte (Kapitel 3.2.3).
 Die Visualiserung basiert auf den Ergebnissen der Literaturrecherche, welche über die Datei `Review_OMOP_process_python_prep.csv` im Quellcode eingelesen werden.
-Der Quellcode ist in Anlehnung an die Visualisierung von Ines Reinecke implementiert wurden (inesreinecke. (2023). inesreinecke/dissertation-code: diss-release (diss). Zenodo. https://doi.org/10.5281/zenodo.8127650)).
+Der Quellcode ist in Anlehnung an die Visualisierung von Ines Reinecke implementiert wurden (inesreinecke. (2023). inesreinecke/dissertation-code: diss-release (diss). Zenodo. https://doi.org/10.5281/zenodo.8127650).
 
 
 ### Ordner 01_Datensatzspezifikation
