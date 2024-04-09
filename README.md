@@ -1,6 +1,6 @@
 # dissertation-appendix
 
-Dieses Projekt ist Bestandteil der Dissertation von Elisa Henke, vorgelegt an der Medizinischen Fakultät Carl Gustav Carus der Technischen Universität Dresden.
+Dieses Projekt ist Bestandteil der Dissertation von Elisa Henke, vorgelegt am 12.04.2024 an der Medizinischen Fakultät Carl Gustav Carus der Technischen Universität Dresden.
 
 ## Inhalt des Projektes ##
 
