@@ -87,4 +87,9 @@ Die Ergebnisse stehen für klinische Daten und GKV-Routinedaten als komprimierte
 
 Die SQL-Skripte `Analyse_Fails_klinische_Daten.sql` und `Analyse_Fails_GKV_Routinedaten.sql` analysieren die in OMOP CDM harmonisierten klinischen Daten bzw. GKV-Routinedaten zur Bestimmung der Gründe für nicht bestandene Datenqualitätsprüfungen inklusive der Ermittlung der zugehörigen Anzahl der betroffenen Datensätze (Kapitel 4.9, 5.8 und 6.9). 
 
-Die Dateien `Ergebnisse_DQD_klinische_Daten.xlsx` und `Ergebnisse_DQD_GKV_Routinedaten.xlsx` beinhalten die Ergebnisse der qualitativen Datenqualitätsanalyse der in OMOP CDM harmonisierten klinischen Daten bzw. GKV-Routinedaten mittels dem OHDSI Tool Data Quality Dashboard (DQD) sowie stellen die Gründe für nicht bestandene Prüfungen dar (Kapitel 4.9, 5.8 und 6.9). 
+Die Dateien `Ergebnisse_DQD_klinische_Daten.xlsx` und `Ergebnisse_DQD_GKV_Routinedaten.xlsx` beinhalten die Ergebnisse der qualitativen Datenqualitätsanalyse der in OMOP CDM harmonisierten klinischen Daten bzw. GKV-Routinedaten mittels dem OHDSI Tool Data Quality Dashboard (DQD) sowie stellen die Gründe für nicht bestandene Prüfungen dar (Kapitel 4.9, 5.8 und 6.9).
+
+
+### Ordner 10_Quantitative_Datenqualitätsanalyse
+
+Die Dateien `Ergebnisse_quantitative_Datenqualitätsanalyse_klinische_Daten.xlsx` und `Ergebnisse_quantitative_Datenqualitätsanalyse_GKV_Routinedaten.xlsx` beinhalten die Ergebnisse der quantitativen Datenqualitätsanalyse der in OMOP CDM harmonisierten klinischen Daten bzw. GKV-Routinedaten sowie zeigen Gründe für Differenzen in den Anzahlen zwischen Quelle und Ziel auf (Kapitel 4.10, 5.9 und 6.10).
